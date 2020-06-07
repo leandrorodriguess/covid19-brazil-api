@@ -44,6 +44,7 @@ Fornecer uma API JSON com dados atualizados sobre o avanço do coronavírus no B
 - [Levantelab](https://levantelab.com.br/mapa_coronavirus)
 - [COVID19 Tracker](https://apex.oracle.com/pls/apex/f?p=82495)
 - [SITE sitecovid19](https://sitecovid19.netlify.com/)
+- [COVID-19 Brasil em Dashboard] (https://www.informecovid19.com.br/)
 
 ### Apps 📱
 
